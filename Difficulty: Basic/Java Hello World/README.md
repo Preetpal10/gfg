@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/java-hello-world4004/1?page=1&category=Java&difficulty=Basic&sortBy=submissions">Java Hello World</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Display the most famous phrase at the of beginning any programming language, "Hello World" (without Quotes).</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/java-hello-world4004/1">Java Hello World</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Display the most famous phrase at the of beginning any programming language, "Hello World" (without Quotes).</span></p>
 <p><span style="font-size: 18px;"><strong>Example:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input:
 Output:
