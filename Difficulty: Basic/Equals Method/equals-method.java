@@ -3,12 +3,11 @@ class Solution {
     public static boolean areEqual(int a[], int b[]) {
         // Your code here
         for(int i = 0; i< a.length; i++){
-            for(int j = 0 ; j< b.length;j++){
                 if(a[i] != b[i]){
                     return false;
                 }
             }
-}
+
         return true;
     }
 }
